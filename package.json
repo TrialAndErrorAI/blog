@@ -78,6 +78,5 @@
     "next-contentlayer": {
       "next": "$next"
     }
-  },
-  "packageManager": "yarn@3.6.1"
+  }
 }
